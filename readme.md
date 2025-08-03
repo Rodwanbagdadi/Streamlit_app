@@ -120,7 +120,7 @@ if prompt := st.chat_input("How can I help?"):
 save_chat_history(st.session_state.messages)
 ```
 
-1. Run your Streamlit app with
+Run your Streamlit app with
 
 ```plain
 streamlit run app.py
